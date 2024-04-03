@@ -1,0 +1,23 @@
+body {
+  /* height: 100; */
+  width: 100%;
+  background: linear-gradient(#CAB9E6,#71579A);
+}
+
+.navbar {
+  background:#71579A;
+}
+
+.hero {
+  padding: 50px 0;
+}
+
+#lp {
+  width: 100%;
+  background: linear-gradient(to right,#FACD95,#B9894A);
+}
+
+#nb {
+  width: 100%;
+  background: linear-gradient(to right,#824BDD,#381D66);
+}
